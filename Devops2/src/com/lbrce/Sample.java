@@ -16,3 +16,10 @@ public class Sample {
 	}
 
 }
+public class example
+{
+	public static void main(String args[])
+	{
+		System.out.println("Hii this is second lab");
+	}
+}
